@@ -1,0 +1,27 @@
+{
+  "name": "Homework12",
+  "version": "1.0.0",
+  "description": "Make an employee tracker for your business.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agnys560/unit12hw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agnys560/unit12hw.git/issues"
+  },
+  "homepage": "https://github.com/Agnys560/unit12hw.git#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {}
+}
